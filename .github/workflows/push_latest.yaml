@@ -32,5 +32,5 @@ jobs:
         with:
           context: .
           platforms: linux/amd64,linux/arm64
-          tags: tomsquest/docker-radicale:latest
+          tags: lazyfat/radicale:20250426
           push: true
